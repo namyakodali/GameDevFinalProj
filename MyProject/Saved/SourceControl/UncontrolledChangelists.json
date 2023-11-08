@@ -5,8 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Joes1.umap",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Kams_Level.umap",
+				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Props/Coin.uasset",
+				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/DrunkMeter.uasset",
+				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Joes1.umap",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/__ExternalActors__/Kams/5/UX/B2QZCPZYBPAV57SHQFCO3H.uasset",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/__ExternalActors__/Kams/5/11/NQ843SCLA191I3F52DXIYG.uasset",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/__ExternalActors__/Kams/5/OM/I1ZRKJYS7G7I4GK0KQ4PK9.uasset",
