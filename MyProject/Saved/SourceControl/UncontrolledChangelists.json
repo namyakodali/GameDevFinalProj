@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/meghnamavila/GameDevFinalProj/MyProject/Content/Jake.uasset",
+				"/Users/meghnamavila/GameDevFinalProj/MyProject/Content/Brothers_Level.umap",
+				"/Users/meghnamavila/GameDevFinalProj/MyProject/Content/EndGameWidget.uasset",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Kams_level.umap",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/Props/Coin.uasset",
 				"/Users/aditikhanna/GameDevFinalProj/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
